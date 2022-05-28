@@ -1,0 +1,27 @@
+
+.titulo {
+    font-size: 35px;
+    font-family:fuenteboca;
+    color: rgb(145, 17, 17);
+}
+
+.container-picture{
+    
+    margin-left: 6rem;
+}
+
+.container-main {
+    margin-top: 13rem;
+}
+
+.container-picture img {
+    width: 50%;
+    
+}
+
+.container-login {
+    position:absolute;
+    top: 260px;
+    right: 220px;
+
+}

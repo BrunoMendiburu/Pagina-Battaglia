@@ -14,6 +14,7 @@ a {
 
 .container-titulo h1 {
     line-height: 40px;
+    left: 2rem;
 }
 
 .container-main {
@@ -22,7 +23,6 @@ a {
     display: block;
     margin: auto;
     margin-top: 16rem;
-    background-color: black;
 }
 
 .container-main .container-momentos {

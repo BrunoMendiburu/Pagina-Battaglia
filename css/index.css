@@ -5,23 +5,58 @@
     color: rgb(145, 17, 17);
 }
 
-.container-picture{
-    
+.container-historias {
+    margin-top: 10rem;
+}
+
+.container-historia0 {
+    margin-left: 6rem;
+    margin-top: 2rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container-imgbati {
+    position: absolute;
+    right: -160px;
+    top: 220px;
+}
+
+.container-imgbati img {
+    width: 70%;
+}
+
+.container-imgjuvenil{
+    margin-top: 3rem;
     margin-left: 6rem;
 }
 
-.container-main {
-    margin-top: 13rem;
-}
-
-.container-picture img {
-    width: 50%;
+.container-imgjuvenil img {
+    width: 40%;
     
 }
 
-.container-login {
+.container-historia1 {
     position:absolute;
-    top: 260px;
-    right: 220px;
+    top: 700px;
+    right: 90px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    z-index: -1;
+}
 
+.container-historia2 {
+    margin-left: 6rem;
+    margin-top: 3rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.container-imgvilla {
+    position:absolute;
+    top: 1025px;
+    right: -300px;
+}
+
+.container-imgvilla img {
+    width: 60%;
+    
 }

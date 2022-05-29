@@ -1,0 +1,16 @@
+.container-momentos {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: 9rem;
+}
+
+.container-momentos .momentos img {
+    width: 100%;
+}
+
+.container-momentos .momentos {
+    width: 320px;
+    height: max-content;
+    border: 2px solid blue; 
+    margin: 20px 0;
+}

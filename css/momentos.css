@@ -1,3 +1,8 @@
+body {
+    background-color: #006;
+    color: rgb(255, 255, 255);
+}
+
 a {
     text-decoration: none;
 }
@@ -7,14 +12,18 @@ a {
     top: 7rem;
     margin-top: 3rem;
     margin-bottom: 9rem;
-    width: 30%;
+    width: 60%;
     font-family:fuenteboca;
-    color: #0000ff;
+    color: #f3aa1a;
+    transform: translateX(42%);
 }
 
 .container-titulo h1 {
     line-height: 40px;
     left: 2rem;
+    display: flex;
+    text-align: center;
+    justify-content: center;
 }
 
 .container-main {

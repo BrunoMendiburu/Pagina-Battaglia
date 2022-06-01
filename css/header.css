@@ -37,7 +37,7 @@
 
 .container-navegador .lista-nav {
     list-style: none;
-    margin-top: -12px;
+    margin-top: -4px;
 }
 
 .container-navegador{
@@ -52,4 +52,9 @@
     right: 30px;
     width: 5%;
     user-select: none;
+}
+
+.container-footer a {
+    text-decoration: none;
+    color: #fcaf17;
 }
